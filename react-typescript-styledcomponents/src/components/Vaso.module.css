@@ -1,0 +1,25 @@
+.vaso {
+  width: 75px;
+  height: 30px;
+  margin: 10px;
+}
+
+.primary {
+  background-color: purple;
+}
+
+.secondary {
+  background-color: orange;
+}
+
+.neutral {
+  background-color: white;
+}
+
+.warning {
+  background-color: yellow;
+}
+
+.danger {
+  background-color: red;
+}
